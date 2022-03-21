@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DARTInstaller", "DARTInstaller\DARTInstaller.vdproj", "{3373D189-9631-4DA4-BA6B-BB7DAF9F0DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3373D189-9631-4DA4-BA6B-BB7DAF9F0DE3}.Debug|Default.ActiveCfg = Debug
+		{3373D189-9631-4DA4-BA6B-BB7DAF9F0DE3}.Debug|Default.Build.0 = Debug
+		{3373D189-9631-4DA4-BA6B-BB7DAF9F0DE3}.Release|Default.ActiveCfg = Release
+		{3373D189-9631-4DA4-BA6B-BB7DAF9F0DE3}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F632C95-579B-4CED-9E7E-D69FADE92F1C}
+	EndGlobalSection
+EndGlobal
